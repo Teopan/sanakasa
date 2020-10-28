@@ -2,7 +2,7 @@
 
 Sanakasa is an application for commiting different ideas for projects.
 
-Apou omorfos
+Apou omorfos! 
 mhtroy o gamias olwn
 
 + smtp enumeration kai ta loipa
